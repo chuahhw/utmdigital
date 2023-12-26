@@ -5,19 +5,19 @@
 https://github.com/chuahhw/utmdigital/assets/147809633/11059034-4438-4415-a41f-cfa32939480a
 
 <p>Reflections: </p>
-<p>a.	Do the activities give benefit to the student?
-Yes, because student can know more about the services provided by
-UTMDigital and they would use the services provided wisely in the future.
-b.	How do these activities impact on the outcome of the course/subject?
-These activities expose students to a real working environment, get knowledge
-from the industry and increase engagement between university and industry.
-c.	Do you learn something impactful from the activity?
-Yes, we learn that we should appreciate the hard work of UTMDigital workers because they work really hard to keep on improving the services and provide UTM good ICT service.
-d.	Do the activities spark excitement/interest in the student?
-Yes, students are really excited to visit UTM Digital.
-e.	Do you feel that visiting the organization and attending the talk helps you
-learn the course material better? Provide justifications.
-Visiting UTMDigital help us to learn the course material better because we have a
+<p>a.	Do the activities give benefit to the student?</p>
+<p>Yes, because student can know more about the services provided by
+UTMDigital and they would use the services provided wisely in the future.</p>
+<p>b.	How do these activities impact on the outcome of the course/subject?</p>
+<p>These activities expose students to a real working environment, get knowledge
+from the industry and increase engagement between university and industry.</p>
+<p>c.	Do you learn something impactful from the activity?</p>
+<p>Yes, we learn that we should appreciate the hard work of UTMDigital workers because they work really hard to keep on improving the services and provide UTM good ICT service.</p>
+<p>d.	Do the activities spark excitement/interest in the student?</p>
+<p>Yes, students are really excited to visit UTM Digital.</p>
+<p>>e.	Do you feel that visiting the organization and attending the talk helps you
+learn the course material better? Provide justifications.</p>
+<p>Visiting UTMDigital help us to learn the course material better because we have a
 chance to take a closer look about the real ICT working environment.</p>
 
 <h2>What's Next</h2>
