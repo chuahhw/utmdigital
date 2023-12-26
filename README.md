@@ -15,7 +15,7 @@ from the industry and increase engagement between university and industry.</p>
 <p>Yes, we learn that we should appreciate the hard work of UTMDigital workers because they work really hard to keep on improving the services and provide UTM good ICT service.</p>
 <p>d.	Do the activities spark excitement/interest in the student?</p>
 <p>Yes, students are really excited to visit UTM Digital.</p>
-<p>>e.	Do you feel that visiting the organization and attending the talk helps you
+<p>e.	Do you feel that visiting the organization and attending the talk helps you
 learn the course material better? Provide justifications.</p>
 <p>Visiting UTMDigital help us to learn the course material better because we have a
 chance to take a closer look about the real ICT working environment.</p>
