@@ -22,6 +22,5 @@ learn the course material better? Provide justifications.</p>
 chance to take a closer look about the real ICT working environment.</p>
 
 <h2>What's Next</h2>
-<a href="https://github.com/chuahhw">Home</a>
 
-<a href="https://github.com/chuahhw/tis">TIS</a>
+<a href="https://github.com/chuahhw/tis">Back to TIS</a>
