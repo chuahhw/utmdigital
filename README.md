@@ -1,4 +1,4 @@
-# UTMDigital industrial visit and industrial talk video
+# Assignment 2 (Format: Video) Industry Visit to UTM Digital
 <h2>Introduction</h2>
 <p>The virtual talk took place in webex online meeting on 5 December. It started from 3pm to 5pm. It was about UTMDIGITAL. We have learnt the details ICT services provided by UTMDIGITAL such as UTMSmart, UTM email, UTM portal.  We also learnt there are different departments in UTMDigital such as Division of Digital Strategy, Digital Architecture, Digital Innovation. We visited UTMDigital on 6 December. We gathered in the lobby of UTMDigital before 2pm and start the visit on 2pm. We visited the Open office. Digital care unit. the TM Room and UTM Data Center.</p>
 
