@@ -4,7 +4,7 @@
 
 https://github.com/chuahhw/utmdigital/assets/147809633/11059034-4438-4415-a41f-cfa32939480a
 
-<h2>Reflections: </h2>
+<h2>Reflections </h2>
 <p>The information i gained through industrial visit to UTMDigital is I get to know more about the services provided by
 UTMDigital and i know that i should use the services provided wisely in the future. The improvement that I want to suggest is I hope that the time of the visit to UTMDigital will be longer. In my opinion, I think that visiting UTMDigital help me to learn the course material better because we have a
 chance to take a closer look about the real ICT working environment.</p>
